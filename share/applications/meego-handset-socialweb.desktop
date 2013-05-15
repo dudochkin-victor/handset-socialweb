@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Name=Social Networking
+Icon=icons-Applications-socialweb
+Exec=/usr/bin/meego-handset-socialweb
+Comment=MeeGo social networking application
+Categories=Network;InstantMessaging;
+Terminal=false
+StartupNotify=true
+OnlyShowIn=X-DUI;X-MeeGo;X-MeeGoTouch;

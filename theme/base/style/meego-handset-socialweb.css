@@ -1,0 +1,24 @@
+#SwItemListPageStatusUpdateEdit {
+    margin-left: 0;
+}
+
+#SwItemListPageViewport {
+    margin-left: 0;
+    margin-right: 0;
+}
+
+#SwItemListItem {
+    background-image: "meegotouch-speechbubble-incoming-background";
+    margin-left: 0;
+    margin-right: 0;
+}
+
+#SwItemListItem.Portrait {
+    preferred-size: 100% -1;
+    maximum-size: 100% 75%;
+}
+
+#SwItemListItem.Landscape {
+    preferred-size: 49.5% -1;
+    maximum-size: 49.5% 55%;
+}

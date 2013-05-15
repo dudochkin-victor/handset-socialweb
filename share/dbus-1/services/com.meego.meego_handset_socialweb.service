@@ -1,0 +1,4 @@
+[D-BUS Service]
+Name=com.meego.meego_handset_socialweb
+Exec=/usr/bin/meego-handset-socialweb
+
